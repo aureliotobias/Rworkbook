@@ -3,4 +3,4 @@ This workbook was originally developed by <a href="https://www.lshtm.ac.uk/newse
 
 We have reviewed the workbook mainly for <a href="https://www.eepe.org" target="_blank">EEPE</a> students who are new to R. Following Michael’s philosophy that statistical software is best learned by using it, we assume that the reader is seated in front of a computer running R. The workbook mostly uses base R commands, although—given that one of R’s strengths is the large number of user-written packages—we have also incorporated a few of these when appropriate. 
 
-Florence, June 15, 2026.
+<i>Florence, June 15, 2026.</i>
