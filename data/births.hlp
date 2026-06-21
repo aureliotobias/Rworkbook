@@ -1,0 +1,9 @@
+            'id':  Identity number for mother and baby.
+       'bweight':  Birth weight of baby in g.
+         'lowbw':  Indicator for birth weight less than 2500 g (1=low, 0=other).
+       'gestwks':  Gestation period in weeks.
+       'preterm':  Indicator for gestation period <37 weeks (1=less, 0=other).
+        'matage':  Maternal age in years.
+           'hyp':  Indicator for maternal hypertension (1=hyper, 0=other).
+           'sex':  Sex of baby: 1:Male, 2:Female.
+
